@@ -1,0 +1,7 @@
+mypy
+pydantic
+email_validator
+pydantic-settings
+httpie
+fastapi
+uvicorn
