@@ -1,3 +1,7 @@
-mypy==1.10.0
-pydantic==2.7.4
-email_validator==2.1.1
+mypy
+pydantic
+email_validator
+pydantic-settings
+httpie
+fastapi
+uvicorn
