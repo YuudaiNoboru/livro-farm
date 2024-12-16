@@ -5,3 +5,4 @@ pydantic-settings
 httpie
 fastapi
 uvicorn
+python-multipart
